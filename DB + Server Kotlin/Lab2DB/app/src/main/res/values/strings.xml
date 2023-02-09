@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2DB</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="pagenumber">Page Number</string>
+    <string name="review">Review</string>
+    <string name="quotes">Quotes</string>
+</resources>

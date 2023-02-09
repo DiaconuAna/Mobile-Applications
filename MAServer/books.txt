@@ -1,0 +1,46 @@
+[
+  {
+    "author": "me",
+    "description": "random descr",
+    "genre": "non fiction",
+    "id": "37",
+    "isOffline": false,
+    "pageNumber": 868,
+    "quotes": "",
+    "review": "",
+    "title": "Slopes of the  - updated"
+  },
+  {
+    "author": "no one",
+    "description": "random description",
+    "genre": "fiction",
+    "isOffline": false,
+    "pageNumber": 675,
+    "quotes": "",
+    "review": "",
+    "title": "Outskirts of Novigrad",
+    "id": "38"
+  },
+  {
+    "author": "andrew",
+    "description": "uygu",
+    "genre": "yguyg",
+    "id": "40",
+    "isOffline": false,
+    "pageNumber": 45,
+    "quotes": "",
+    "review": "",
+    "title": "Hello world"
+  },
+  {
+    "author": "fytf",
+    "description": "ytfytf",
+    "genre": "tyfytf",
+    "id": "41",
+    "isOffline": false,
+    "pageNumber": 56,
+    "quotes": "",
+    "review": "",
+    "title": "fufuyt"
+  }
+]
